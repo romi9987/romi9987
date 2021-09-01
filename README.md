@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Michal, I come from Poland and live in France
+- 👀 I’m interested in programming, especially in java and python and in psychology
+- 🌱 I’m currently learning Spring framework
+- 💞️ I’m looking to collaborate on AI projects
+- 📫 How to reach me - by my email address: romi9987@gmail.com
