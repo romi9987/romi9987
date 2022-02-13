@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Michal, I come from Poland and live in France
 - 👀 I’m interested in python programming and Machine Learning.
 
-- 🌱 I have just achieved Professional IBM Data Science Certificate - <a href="https://github.com/romi9987/romi9987/blob/main/11.%20Coursera%20-%20IBM%20Data%20Science.pdf">Certificate</a>
+- 🌱 I have just achieved Professional IBM Data Science Certificate - <a href="https://www.credly.com/badges/e772b69f-e277-4bbb-a76e-be060ea760ae/public_url">Certificate</a>
 
 - In order to do that, I accomplished the following courses: 
 - What is Data Science?
