@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michal, I come from Poland and live in France
 - 👀 I’m interested in python programming and Machine Learning.
-- 
+
 - 🌱 I have just achieved Professional IBM Data Science Certificate. 
 - In order to do that, I accomplished the following courses: 
 - What is Data Science?
