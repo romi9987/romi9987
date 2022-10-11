@@ -1,20 +1,11 @@
-- 👋 Hi, I’m Michal, I come from Poland and live in France
-- 👀 I’m interested in python programming and Machine Learning.
+Hi, I’m Michal, I come from Poland.
 
-- 🌱 I have just achieved Professional IBM Data Science Certificate - <a href="https://www.credly.com/badges/e772b69f-e277-4bbb-a76e-be060ea760ae/public_url">Certificate</a>
+I’m interested in python programming and Machine Learning projects.
 
-- In order to do that, I accomplished the following courses: 
-- What is Data Science?
-- Tools for Data Science
-- Data Science Methodology
-- Python for Data Science
-- SQL and Data Bases
-- Data Analysis with Python
-- Python Project for Data Science
-- Data Visualization with Python
-- Machine Learning with Python
-- Applied Data Science Capstone Project
+I work as a Data Analyst using MongoDB, Python and Data Science
+libraries to conduct anomalies research with use of Isolation Forest
+Algorithm. 
 
-- 💞️ I’m looking to collaborate on Machine Learning projects
-- 📫 How to reach me - by my email address: romi9987@gmail.com
-- My Linkedin Profile: https://www.linkedin.com/in/michal-rolirad-89885b1/ 
+I have just achieved AWS Cloud Practitioner Certificate
+
+My Linkedin Profile: https://www.linkedin.com/in/michal-rolirad-89885b1/ 
